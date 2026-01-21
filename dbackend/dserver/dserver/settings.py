@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
     # apps
     'apps.dendpoints',
+    'apps.ml',
+    'apps.ml.income_classifier'
 ]
 
 MIDDLEWARE = [
